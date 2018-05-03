@@ -23,17 +23,15 @@ This module will introduce you to some more advanced questions in ethnographical
 ### May 7 — Ethnographic Relationships
 
 - Borneman, John. 2011. Daydreaming, intimacy, and the intersubjective third in fieldwork encounters in Syria. American Ethnologist 38 (2):234-248.
-- Van Wyk, Ilana. 2013. Beyond ethical imperatives in South African anthropology: morally repugnant and unlikeable subjects. Anthropology Southern Africa 36 (1-2):68-79.
 - Young, Donna J. 2005. Writing Against the Native Point of View. In Auto-Ethnographies: The Anthropology of Academic Practices, edited by A. Meneley and D. J. Young. 203-215. Peterborough, Ontario: Broadview Press.
 
 ### May 10 — Ambivalence
 
 - Freud, Sigmund. 1963. Mourning and Melancholia. In General Psychological Theory: Papers on Metapsychology. 164-79. New York: Collier Books.
-- High, Holly. 2011. Melancholia and anthropology. American Ethnologist 38 (2):217-233.
+- Fanon, Frantz. 2008. The Fact of Blackness. In Black skin, white masks. Translated by C. L. Markmann. 82-108. New York: Grove Press.
 
 ### May 14 — Ideologies
 
-- Fanon, Frantz. 2008. The Fact of Blackness. In Black skin, white masks. Translated by C. L. Markmann. 82-108. New York: Grove Press.
 - Lorde, Audre. 1984. The Uses of Anger: Women Responding to Racism. In Sister Outsider. 124-133. Trumansburg, N.Y.: Crossing Press.
 - Mainardi, Pat. 1970. The Politics of Housework. In Sisterhood is Powerful: An Anthology of Writings from the Women's Liberation Movement. 447-454. New York: Vintage.
 
