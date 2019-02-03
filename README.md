@@ -14,13 +14,13 @@ This module will introduce you to some more advanced questions in ethnographical
 
 ## Reading Lists
 
-- [Qualitative Methods](general_syllabus.md) based on an interview [pdf](pdf/general_syllabus.pdf).
-- [Social Anthropology unit](social_anthropology_syllabus.md) based on an interview and a bit of field observation [pdf](pdf/social_anthropology_syllabus.pdf).
+- [Qualitative Methods](general_syllabus.md) based on an interview ([pdf](pdf/general_syllabus.pdf)).
+- [Social Anthropology unit](social_anthropology_syllabus.md) based on an interview and a bit of field observation ([pdf](pdf/social_anthropology_syllabus.pdf)).
 
 ## Assignments
 
 There were two papers:
 
-- [Qualitative Methods paper](qual_methods_paper.md) based on an interview [pdf](pdf/qual_methods_paper.pdf).
-- [Social Anthropology unit paper](social_anthropology_paper.md) based on an interview and a bit of field observation [pdf](pdf/social_anthropology_paper.pdf).
+- [Qualitative Methods paper](qual_methods_paper.md) based on an interview ([pdf](pdf/qual_methods_paper.pdf)).
+- [Social Anthropology unit paper](social_anthropology_paper.md) based on an interview and a bit of field observation ([pdf](pdf/social_anthropology_paper.pdf)).
 
